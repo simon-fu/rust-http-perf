@@ -10,3 +10,4 @@ tokio = { version = "1.11.0", features = ["full"] }
 tokio-util = {version = "=0.6.8", features = ["full"]}
 tokio-stream = { version = "=0.1.7", features = ["sync"] }
 hyper = { version = "0.14.16", features = ["full"] }
+anyhow = "1.0.44"
